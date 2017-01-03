@@ -1,0 +1,26 @@
+{
+    "IITGuwahati-Mechanical_Vibration.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "MV-IITG", 
+            "name": "IITGuwahati-Mechanical_Vibration.JPG", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IITGuwahati-Mechanical Vibration.JPG", 
+        "filename": "asset-v1:IIT-Guwahati+MV-IITG+Anytime+type@asset+block@IITGuwahati-Mechanical_Vibration.JPG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Guwahati", 
+            "MV-IITG", 
+            "thumbnail", 
+            "IITGuwahati-Mechanical_Vibration-JPG.jpg", 
+            null
+        ]
+    }
+}
